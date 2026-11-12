@@ -1,0 +1,13 @@
+throughput_mbps,packet_rate,destination_port,upload_ratio,flow_count,traffic_type,congestion_level
+12.4,142,3478,0.61,8,Video Conferencing,Medium
+3.1,98,27015,0.42,5,Gaming,Low
+18.6,73,443,0.27,11,Streaming,High
+1.3,22,443,0.35,3,Web Browsing,Low
+24.8,52,443,0.18,7,File Download,High
+4.5,31,443,0.20,4,Background Updates,Medium
+9.7,170,3478,0.69,12,Video Conferencing,High
+2.4,76,27015,0.49,5,Gaming,Medium
+15.1,62,1935,0.25,8,Streaming,Medium
+0.8,16,80,0.31,2,Web Browsing,Low
+20.2,48,443,0.12,9,File Download,High
+3.2,24,443,0.18,3,Background Updates,Low

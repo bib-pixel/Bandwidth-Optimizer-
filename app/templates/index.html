@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="hero-panel p-5 mb-4 rounded-4">
+  <div class="container-fluid py-3">
+    <span class="badge text-bg-success mb-3">● Simulation engine online</span>
+    <h1 class="display-6 fw-bold">AI-Based Predictive Bandwidth Optimization</h1>
+    <p class="col-lg-8 fs-5 text-secondary">Monitor flow behaviour, predict congestion, and calculate adaptive QoS allocations—entirely in software.</p>
+    <a class="btn btn-primary" href="{{ url_for('main.dashboard') }}">Open dashboard</a>
+  </div>
+</div>
+{% endblock %}
